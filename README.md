@@ -28,4 +28,4 @@ Expense Tracker — это десктопное приложение для уч
 2. Откройте терминал/командную строку
 3. Перейдите в папку с программой:
 ```bash
-git clone <URL_репозитория>
+git clone <[URL_репозитория](https://github.com/NataFil113/Expense-Tracker/blob/main/main.py)>
